@@ -22,7 +22,7 @@ Today, the excitement continues with the release of **e-Swecha**, a **FOSS** (Fr
 - **Built on Debian 13 “Trixie”**
 - **Linux Kernel 6.12 LTS** for improved hardware support and stability
 - **Preinstalled development stack**, including **VSCodium** for coding out-of-the-box
-- Designed for **Summer of engineering students**
+- Designed for ** engineering students**
 - Recommended os for summer of ai interns at Vishwam.ai
 - Supports **HTTP Boot** and **PXE Boot** for network-based deployments
 - Ideal for both **live boot** sessions and full installation
