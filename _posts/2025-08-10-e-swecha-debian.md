@@ -1,5 +1,6 @@
 ---
 title: e-swecha debian
+subject: e-swecha os by swecha a foss organisation
 categories: ["linux"]
 tags: [Design, custumisation, linux, Devops]
 ---
